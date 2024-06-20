@@ -7,9 +7,22 @@ h2{
 h3{
     color: aqua;
 }
+h4{
+    color: tomato;
+}
 
 p{
     color: green;
     font-size: large;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.vijay{
+    color: blueviolet;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#harish{
+    color: chocolate;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
