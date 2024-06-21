@@ -1,0 +1,16 @@
+body{
+    color:  darkgreen;
+    text-align: right;
+    font-size: x-large;
+ }
+ a[target]{
+     background-color: yellow;
+ }
+ div{
+    text-align: left;
+ }
+ img{
+display: grid;
+width: 600px;
+height: 300px; 
+}
